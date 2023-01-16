@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>Screenshot 2022-12-05 at 1.19.34 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.19.43 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.19.48 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.19.53 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.20.10 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.20.30 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.20.35 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.20.59 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.21.04 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.21.08 PM.png</file>
+        <file>Screenshot 2022-12-05 at 1.21.12 PM.png</file>
+        <file>SelectButton.png</file>
+        <file>OasisPro.svg</file>
+        <file>Outputjack.png</file>
+        <file>PowerButton.png</file>
+        <file>record.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>theta.png</file>
+        <file>replay.png</file>
+        <file>down.png</file>
+        <file>up.png</file>
+    </qresource>
+</RCC>
